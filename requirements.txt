@@ -1,9 +1,0 @@
-streamlit
-langchain
-langchain-google-genai
-langchain-community
-langgraph
-duckduckgo-search
-tenacity
-beautifulsoup4
-requests
